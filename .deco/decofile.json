@@ -324,5 +324,8 @@
     "theme": {
       "__resolveType": "Neutral"
     }
+  },
+  "weather": {
+    "__resolveType": "decohub/apps/weather.ts"
   }
 }
